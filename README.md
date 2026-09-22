@@ -240,4 +240,4 @@ This repository serves as the official landing page for OpenPaint. The software 
 **Get the most recent version of OpenPaint today!**
 
 ---
-**Last updated:** 2026-09-21 23:57:28 UTC
+**Last updated:** 2026-09-22 04:39:59 UTC
